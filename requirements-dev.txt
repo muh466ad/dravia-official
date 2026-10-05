@@ -1,0 +1,14 @@
+# Development-only dependencies (not needed to run the bot).
+# Install with:  pip install -r requirements.txt -r requirements-dev.txt
+#
+# Run the suite with:
+#   python -m pytest tests/ -q
+#
+# If pytest hangs during collection, a third-party plugin is auto-loading.
+# Disable them with:
+#   PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 python -m pytest tests/ -q
+#
+# The tests deliberately avoid async plugins (pytest-asyncio / anyio) so the
+# suite has no plugin dependencies beyond pytest itself.
+
+pytest>=8.0

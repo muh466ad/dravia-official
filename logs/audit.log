@@ -1,0 +1,90 @@
+2026-10-03 16:18:58,460 - Dravia.audit - INFO - credit 1 -> test amount=1000 reason=credit
+2026-10-03 16:18:58,637 - Dravia.audit - INFO - debit 1 -> test amount=500 reason=debit
+2026-10-03 16:18:58,759 - Dravia.audit - INFO - transfer 1 -> 2 amount=100
+2026-10-03 16:20:44,068 - Dravia.audit - INFO - credit 1 -> test amount=1000 reason=seed
+2026-10-03 16:20:44,798 - Dravia.audit - INFO - credit 1 -> achievement amount=100 reason=Achievement: First 1,000 Ovi
+2026-10-03 16:20:44,798 - Dravia.audit - INFO - achievement First 1,000 Ovi claimed by 1 amount=100
+2026-10-03 16:26:21,734 - Dravia.audit - INFO - credit 1 -> test amount=1000 reason=seed
+2026-10-03 16:26:35,623 - Dravia.audit - INFO - credit 1 -> test amount=1000 reason=seed
+2026-10-03 16:26:53,055 - Dravia.audit - INFO - credit 1 -> test amount=1000 reason=seed
+2026-10-03 16:26:53,935 - Dravia.audit - INFO - credit 1 -> achievement amount=100 reason=Achievement: First 1,000 Ovi
+2026-10-03 16:26:53,936 - Dravia.audit - INFO - achievement First 1,000 Ovi claimed by 1 amount=100
+2026-10-03 16:27:06,855 - Dravia.audit - INFO - credit 1 -> test amount=1000 reason=seed
+2026-10-03 16:27:07,633 - Dravia.audit - INFO - credit 1 -> achievement amount=100 reason=Achievement: First 1,000 Ovi
+2026-10-03 16:27:07,634 - Dravia.audit - INFO - achievement First 1,000 Ovi claimed by 1 amount=100
+2026-10-03 16:29:05,541 - Dravia.audit - INFO - credit 1 -> test amount=1000 reason=seed
+2026-10-03 16:29:16,704 - Dravia.audit - INFO - credit 1 -> test amount=1000 reason=seed
+2026-10-03 16:29:29,327 - Dravia.audit - INFO - credit 1 -> test amount=1000 reason=seed
+2026-10-03 16:29:30,226 - Dravia.audit - INFO - credit 1 -> achievement amount=100 reason=Achievement: First 1,000 Ovi
+2026-10-03 16:29:30,227 - Dravia.audit - INFO - achievement First 1,000 Ovi claimed by 1 amount=100
+2026-10-03 16:29:42,907 - Dravia.audit - INFO - credit 1 -> test amount=1000 reason=seed
+2026-10-03 16:29:43,683 - Dravia.audit - INFO - credit 1 -> achievement amount=100 reason=Achievement: First 1,000 Ovi
+2026-10-03 16:29:43,683 - Dravia.audit - INFO - achievement First 1,000 Ovi claimed by 1 amount=100
+2026-10-05 11:52:33,744 - Dravia.audit - INFO - credit 1 -> test amount=1000 reason=seed
+2026-10-05 11:52:42,974 - Dravia.audit - INFO - credit 1 -> test amount=1000 reason=seed
+2026-10-05 11:52:53,110 - Dravia.audit - INFO - credit 1 -> test amount=1000 reason=seed
+2026-10-05 11:52:53,797 - Dravia.audit - INFO - credit 1 -> achievement amount=100 reason=Achievement: First 1,000 Ovi
+2026-10-05 11:52:53,797 - Dravia.audit - INFO - achievement First 1,000 Ovi claimed by 1 amount=100
+2026-10-05 11:53:02,588 - Dravia.audit - INFO - credit 1 -> test amount=1000 reason=seed
+2026-10-05 11:53:03,137 - Dravia.audit - INFO - credit 1 -> achievement amount=100 reason=Achievement: First 1,000 Ovi
+2026-10-05 11:53:03,137 - Dravia.audit - INFO - achievement First 1,000 Ovi claimed by 1 amount=100
+2026-10-05 11:56:13,409 - Dravia.audit - INFO - credit 1 -> test amount=1000 reason=seed
+2026-10-05 11:56:28,981 - Dravia.audit - INFO - credit 1 -> test amount=1000 reason=seed
+2026-10-05 12:00:39,054 - Dravia.audit - INFO - credit 1 -> test amount=1000 reason=seed
+2026-10-05 12:00:49,794 - Dravia.audit - INFO - credit 1 -> test amount=1000 reason=seed
+2026-10-05 12:11:46,116 - Dravia.audit - INFO - credit 1 -> test amount=1000 reason=seed
+2026-10-05 12:12:10,076 - Dravia.audit - INFO - credit 1 -> test amount=1000 reason=seed
+2026-10-05 12:12:31,601 - Dravia.audit - INFO - credit 1 -> test amount=1000 reason=seed
+2026-10-05 12:12:32,299 - Dravia.audit - INFO - credit 1 -> achievement amount=100 reason=Achievement: First 1,000 Ovi
+2026-10-05 12:12:32,299 - Dravia.audit - INFO - achievement First 1,000 Ovi claimed by 1 amount=100
+2026-10-05 12:12:48,322 - Dravia.audit - INFO - credit 1 -> test amount=1000 reason=seed
+2026-10-05 12:12:49,012 - Dravia.audit - INFO - credit 1 -> achievement amount=100 reason=Achievement: First 1,000 Ovi
+2026-10-05 12:12:49,012 - Dravia.audit - INFO - achievement First 1,000 Ovi claimed by 1 amount=100
+2026-10-05 12:16:14,298 - Dravia.audit - INFO - credit 1 -> test amount=1000 reason=seed
+2026-10-05 12:16:28,400 - Dravia.audit - INFO - credit 1 -> test amount=1000 reason=seed
+2026-10-05 12:16:40,750 - Dravia.audit - INFO - credit 1 -> test amount=1000 reason=seed
+2026-10-05 12:16:41,644 - Dravia.audit - INFO - credit 1 -> achievement amount=100 reason=Achievement: First 1,000 Ovi
+2026-10-05 12:16:41,645 - Dravia.audit - INFO - achievement First 1,000 Ovi claimed by 1 amount=100
+2026-10-05 12:16:55,082 - Dravia.audit - INFO - credit 1 -> test amount=1000 reason=seed
+2026-10-05 12:16:56,060 - Dravia.audit - INFO - credit 1 -> achievement amount=100 reason=Achievement: First 1,000 Ovi
+2026-10-05 12:16:56,061 - Dravia.audit - INFO - achievement First 1,000 Ovi claimed by 1 amount=100
+2026-10-05 12:28:33,889 - Dravia.audit - INFO - credit 1 -> test amount=1000 reason=seed
+2026-10-05 12:28:43,872 - Dravia.audit - INFO - credit 1 -> test amount=1000 reason=seed
+2026-10-05 12:28:54,937 - Dravia.audit - INFO - credit 1 -> test amount=1000 reason=seed
+2026-10-05 12:28:55,632 - Dravia.audit - INFO - credit 1 -> achievement amount=100 reason=Achievement: First 1,000 Ovi
+2026-10-05 12:28:55,633 - Dravia.audit - INFO - achievement First 1,000 Ovi claimed by 1 amount=100
+2026-10-05 12:29:05,345 - Dravia.audit - INFO - credit 1 -> test amount=1000 reason=seed
+2026-10-05 12:29:06,079 - Dravia.audit - INFO - credit 1 -> achievement amount=100 reason=Achievement: First 1,000 Ovi
+2026-10-05 12:29:06,080 - Dravia.audit - INFO - achievement First 1,000 Ovi claimed by 1 amount=100
+2026-10-05 12:34:22,954 - Dravia.audit - INFO - credit 1 -> test amount=1000 reason=seed
+2026-10-05 12:34:33,284 - Dravia.audit - INFO - credit 1 -> test amount=1000 reason=seed
+2026-10-05 12:34:42,732 - Dravia.audit - INFO - credit 1 -> test amount=1000 reason=seed
+2026-10-05 12:34:43,297 - Dravia.audit - INFO - credit 1 -> achievement amount=100 reason=Achievement: First 1,000 Ovi
+2026-10-05 12:34:43,297 - Dravia.audit - INFO - achievement First 1,000 Ovi claimed by 1 amount=100
+2026-10-05 12:34:53,465 - Dravia.audit - INFO - credit 1 -> test amount=1000 reason=seed
+2026-10-05 12:34:54,075 - Dravia.audit - INFO - credit 1 -> achievement amount=100 reason=Achievement: First 1,000 Ovi
+2026-10-05 12:34:54,076 - Dravia.audit - INFO - achievement First 1,000 Ovi claimed by 1 amount=100
+2026-10-05 13:29:23,004 - Dravia.audit - INFO - credit 1 -> test amount=1000 reason=seed
+2026-10-05 13:29:38,639 - Dravia.audit - INFO - credit 1 -> test amount=1000 reason=seed
+2026-10-05 13:29:57,680 - Dravia.audit - INFO - credit 1 -> test amount=1000 reason=seed
+2026-10-05 13:29:58,663 - Dravia.audit - INFO - credit 1 -> achievement amount=100 reason=Achievement: First 1,000 Ovi
+2026-10-05 13:29:58,663 - Dravia.audit - INFO - achievement First 1,000 Ovi claimed by 1 amount=100
+2026-10-05 13:30:11,579 - Dravia.audit - INFO - credit 1 -> test amount=1000 reason=seed
+2026-10-05 13:30:12,397 - Dravia.audit - INFO - credit 1 -> achievement amount=100 reason=Achievement: First 1,000 Ovi
+2026-10-05 13:30:12,397 - Dravia.audit - INFO - achievement First 1,000 Ovi claimed by 1 amount=100
+2026-10-05 14:04:03,200 - Dravia.audit - INFO - credit 1 -> test amount=1000 reason=seed
+2026-10-05 14:04:13,069 - Dravia.audit - INFO - credit 1 -> test amount=1000 reason=seed
+2026-10-05 14:04:22,175 - Dravia.audit - INFO - credit 1 -> test amount=1000 reason=seed
+2026-10-05 14:04:22,820 - Dravia.audit - INFO - credit 1 -> achievement amount=100 reason=Achievement: First 1,000 Ovi
+2026-10-05 14:04:22,820 - Dravia.audit - INFO - achievement First 1,000 Ovi claimed by 1 amount=100
+2026-10-05 14:04:32,190 - Dravia.audit - INFO - credit 1 -> test amount=1000 reason=seed
+2026-10-05 14:04:32,854 - Dravia.audit - INFO - credit 1 -> achievement amount=100 reason=Achievement: First 1,000 Ovi
+2026-10-05 14:04:32,854 - Dravia.audit - INFO - achievement First 1,000 Ovi claimed by 1 amount=100
+2026-10-05 14:09:57,091 - Dravia.audit - INFO - credit 1 -> test amount=1000 reason=seed
+2026-10-05 14:10:06,516 - Dravia.audit - INFO - credit 1 -> test amount=1000 reason=seed
+2026-10-05 14:10:15,790 - Dravia.audit - INFO - credit 1 -> test amount=1000 reason=seed
+2026-10-05 14:10:16,381 - Dravia.audit - INFO - credit 1 -> achievement amount=100 reason=Achievement: First 1,000 Ovi
+2026-10-05 14:10:16,381 - Dravia.audit - INFO - achievement First 1,000 Ovi claimed by 1 amount=100
+2026-10-05 14:10:25,931 - Dravia.audit - INFO - credit 1 -> test amount=1000 reason=seed
+2026-10-05 14:10:26,519 - Dravia.audit - INFO - credit 1 -> achievement amount=100 reason=Achievement: First 1,000 Ovi
+2026-10-05 14:10:26,520 - Dravia.audit - INFO - achievement First 1,000 Ovi claimed by 1 amount=100

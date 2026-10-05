@@ -1,0 +1,173 @@
+2026-10-02 15:16:29,575 - Dravia.bot - INFO - Scheduler started with 11 jobs
+2026-10-02 15:18:46,166 - Dravia.bot - INFO - Database initialized
+2026-10-02 15:20:36,736 - Dravia.bot - INFO - Database initialized
+2026-10-02 15:23:18,106 - Dravia.bot - INFO - Database initialized
+2026-10-02 15:25:08,897 - Dravia.bot - INFO - Database initialized
+2026-10-02 15:28:16,507 - Dravia.bot - INFO - Scheduler started with 11 jobs
+2026-10-02 22:02:24,066 - Dravia.bot - INFO - Database initialized
+2026-10-03 15:46:03,425 - Dravia.bot - INFO - Database initialized
+2026-10-03 15:48:03,694 - Dravia.bot - INFO - Database initialized
+2026-10-03 15:49:16,753 - Dravia.bot - INFO - Database initialized
+2026-10-03 15:51:42,638 - Dravia.bot - INFO - Database initialized
+2026-10-03 15:52:36,954 - Dravia.bot - INFO - Database initialized
+2026-10-03 15:52:36,974 - Dravia.bot - WARNING - cooldowns.expires_at is missing - run `python migrate.py`. Second-based cooldowns are disabled until then.
+2026-10-03 16:05:02,974 - Dravia.bot - INFO - Database initialized
+2026-10-03 16:05:02,993 - Dravia.bot - WARNING - cooldowns.expires_at is missing - run `python migrate.py`. Second-based cooldowns are disabled until then.
+2026-10-03 16:06:18,932 - Dravia.bot - INFO - Database initialized
+2026-10-03 16:06:18,937 - Dravia.bot - WARNING - cooldowns.expires_at is missing - run `python migrate.py`. Second-based cooldowns are disabled until then.
+2026-10-03 16:07:47,057 - Dravia.bot - INFO - Database initialized
+2026-10-03 16:07:47,065 - Dravia.bot - WARNING - cooldowns.expires_at is missing - run `python migrate.py`. Second-based cooldowns are disabled until then.
+2026-10-03 16:09:17,972 - Dravia.bot - INFO - Database initialized
+2026-10-03 16:09:17,978 - Dravia.bot - WARNING - cooldowns.expires_at is missing - run `python migrate.py`. Second-based cooldowns are disabled until then.
+2026-10-03 16:10:18,607 - Dravia.bot - INFO - Database initialized
+2026-10-03 16:10:18,615 - Dravia.bot - WARNING - cooldowns.expires_at is missing - run `python migrate.py`. Second-based cooldowns are disabled until then.
+2026-10-03 16:11:16,054 - Dravia.bot - INFO - Database initialized
+2026-10-03 16:11:16,061 - Dravia.bot - WARNING - cooldowns.expires_at is missing - run `python migrate.py`. Second-based cooldowns are disabled until then.
+2026-10-03 16:12:15,206 - Dravia.bot - INFO - Database initialized
+2026-10-03 16:12:15,213 - Dravia.bot - WARNING - cooldowns.expires_at is missing - run `python migrate.py`. Second-based cooldowns are disabled until then.
+2026-10-03 16:14:10,475 - Dravia.bot - INFO - Database initialized
+2026-10-03 16:14:10,483 - Dravia.bot - WARNING - cooldowns.expires_at is missing - run `python migrate.py`. Second-based cooldowns are disabled until then.
+2026-10-03 16:18:53,139 - Dravia.bot - INFO - Database initialized
+2026-10-03 16:20:36,142 - Dravia.bot - INFO - Database initialized
+2026-10-03 16:22:05,221 - Dravia.bot - INFO - Database initialized
+2026-10-03 16:22:16,025 - Dravia.bot - INFO - Database initialized
+2026-10-03 16:22:25,523 - Dravia.bot - INFO - Database initialized
+2026-10-03 16:22:34,633 - Dravia.bot - INFO - Database initialized
+2026-10-03 16:22:44,478 - Dravia.bot - INFO - Database initialized
+2026-10-03 16:22:53,523 - Dravia.bot - INFO - Database initialized
+2026-10-03 16:23:03,156 - Dravia.bot - INFO - Database initialized
+2026-10-03 16:23:16,743 - Dravia.bot - INFO - Database initialized
+2026-10-03 16:23:31,230 - Dravia.bot - INFO - Database initialized
+2026-10-03 16:23:46,606 - Dravia.bot - INFO - Database initialized
+2026-10-03 16:23:58,361 - Dravia.bot - INFO - Database initialized
+2026-10-03 16:24:26,618 - Dravia.bot - INFO - Database initialized
+2026-10-03 16:25:57,396 - Dravia.bot - INFO - Database initialized
+2026-10-03 16:26:13,533 - Dravia.bot - INFO - Database initialized
+2026-10-03 16:26:27,899 - Dravia.bot - INFO - Database initialized
+2026-10-03 16:26:45,555 - Dravia.bot - INFO - Database initialized
+2026-10-03 16:26:59,376 - Dravia.bot - INFO - Database initialized
+2026-10-03 16:27:13,212 - Dravia.bot - INFO - Database initialized
+2026-10-03 16:27:26,001 - Dravia.bot - INFO - Database initialized
+2026-10-03 16:27:38,100 - Dravia.bot - INFO - Database initialized
+2026-10-03 16:27:50,959 - Dravia.bot - INFO - Database initialized
+2026-10-03 16:28:03,570 - Dravia.bot - INFO - Database initialized
+2026-10-03 16:28:14,436 - Dravia.bot - INFO - Database initialized
+2026-10-03 16:28:48,247 - Dravia.bot - INFO - Database initialized
+2026-10-03 16:28:59,140 - Dravia.bot - INFO - Database initialized
+2026-10-03 16:29:10,104 - Dravia.bot - INFO - Database initialized
+2026-10-03 16:29:22,118 - Dravia.bot - INFO - Database initialized
+2026-10-03 16:29:35,460 - Dravia.bot - INFO - Database initialized
+2026-10-03 16:29:48,673 - Dravia.bot - INFO - Database initialized
+2026-10-03 16:30:02,147 - Dravia.bot - INFO - Database initialized
+2026-10-03 16:30:14,577 - Dravia.bot - INFO - Database initialized
+2026-10-03 16:30:27,017 - Dravia.bot - INFO - Database initialized
+2026-10-03 16:30:38,887 - Dravia.bot - INFO - Database initialized
+2026-10-03 16:30:51,535 - Dravia.bot - INFO - Database initialized
+2026-10-05 11:52:18,753 - Dravia.bot - INFO - Database initialized
+2026-10-05 11:52:28,661 - Dravia.bot - INFO - Database initialized
+2026-10-05 11:52:37,718 - Dravia.bot - INFO - Database initialized
+2026-10-05 11:52:47,725 - Dravia.bot - INFO - Database initialized
+2026-10-05 11:52:57,189 - Dravia.bot - INFO - Database initialized
+2026-10-05 11:53:07,119 - Dravia.bot - INFO - Database initialized
+2026-10-05 11:53:16,221 - Dravia.bot - INFO - Database initialized
+2026-10-05 11:53:25,348 - Dravia.bot - INFO - Database initialized
+2026-10-05 11:53:34,266 - Dravia.bot - INFO - Database initialized
+2026-10-05 11:53:43,318 - Dravia.bot - INFO - Database initialized
+2026-10-05 11:53:52,589 - Dravia.bot - INFO - Database initialized
+2026-10-05 11:55:48,925 - Dravia.bot - INFO - Database initialized
+2026-10-05 11:56:05,275 - Dravia.bot - INFO - Database initialized
+2026-10-05 11:56:20,074 - Dravia.bot - INFO - Database initialized
+2026-10-05 12:00:23,762 - Dravia.bot - INFO - Database initialized
+2026-10-05 12:00:33,938 - Dravia.bot - INFO - Database initialized
+2026-10-05 12:00:43,238 - Dravia.bot - INFO - Database initialized
+2026-10-05 12:09:24,308 - Dravia.bot - INFO - Database initialized
+2026-10-05 12:09:38,075 - Dravia.bot - INFO - Database initialized
+2026-10-05 12:11:13,565 - Dravia.bot - INFO - Database initialized
+2026-10-05 12:11:35,866 - Dravia.bot - INFO - Database initialized
+2026-10-05 12:12:00,085 - Dravia.bot - INFO - Database initialized
+2026-10-05 12:12:22,469 - Dravia.bot - INFO - Database initialized
+2026-10-05 12:12:41,834 - Dravia.bot - INFO - Database initialized
+2026-10-05 12:12:59,754 - Dravia.bot - INFO - Database initialized
+2026-10-05 12:13:16,470 - Dravia.bot - INFO - Database initialized
+2026-10-05 12:13:38,059 - Dravia.bot - INFO - Database initialized
+2026-10-05 12:14:05,193 - Dravia.bot - INFO - Database initialized
+2026-10-05 12:14:31,209 - Dravia.bot - INFO - Database initialized
+2026-10-05 12:14:58,890 - Dravia.bot - INFO - Database initialized
+2026-10-05 12:15:51,409 - Dravia.bot - INFO - Database initialized
+2026-10-05 12:16:07,618 - Dravia.bot - INFO - Database initialized
+2026-10-05 12:16:21,013 - Dravia.bot - INFO - Database initialized
+2026-10-05 12:16:33,377 - Dravia.bot - INFO - Database initialized
+2026-10-05 12:16:47,606 - Dravia.bot - INFO - Database initialized
+2026-10-05 12:17:02,397 - Dravia.bot - INFO - Database initialized
+2026-10-05 12:17:13,071 - Dravia.bot - INFO - Database initialized
+2026-10-05 12:17:22,377 - Dravia.bot - INFO - Database initialized
+2026-10-05 12:17:31,436 - Dravia.bot - INFO - Database initialized
+2026-10-05 12:17:41,013 - Dravia.bot - INFO - Database initialized
+2026-10-05 12:17:51,338 - Dravia.bot - INFO - Database initialized
+2026-10-05 12:18:56,867 - Dravia.bot - INFO - Database initialized
+2026-10-05 12:18:56,880 - Dravia.bot - WARNING - cooldowns.expires_at is missing - run `python migrate.py`. Second-based cooldowns are disabled until then.
+2026-10-05 12:19:38,842 - Dravia.bot - INFO - Database initialized
+2026-10-05 12:28:18,673 - Dravia.bot - INFO - Database initialized
+2026-10-05 12:28:28,202 - Dravia.bot - INFO - Database initialized
+2026-10-05 12:28:37,862 - Dravia.bot - INFO - Database initialized
+2026-10-05 12:28:49,226 - Dravia.bot - INFO - Database initialized
+2026-10-05 12:28:59,727 - Dravia.bot - INFO - Database initialized
+2026-10-05 12:29:10,313 - Dravia.bot - INFO - Database initialized
+2026-10-05 12:29:20,247 - Dravia.bot - INFO - Database initialized
+2026-10-05 12:29:30,136 - Dravia.bot - INFO - Database initialized
+2026-10-05 12:29:39,914 - Dravia.bot - INFO - Database initialized
+2026-10-05 12:29:52,237 - Dravia.bot - INFO - Database initialized
+2026-10-05 12:30:02,538 - Dravia.bot - INFO - Database initialized
+2026-10-05 12:31:08,386 - Dravia.bot - INFO - Database initialized
+2026-10-05 12:31:08,392 - Dravia.bot - WARNING - cooldowns.expires_at is missing - run `python migrate.py`. Second-based cooldowns are disabled until then.
+2026-10-05 12:34:06,356 - Dravia.bot - INFO - Database initialized
+2026-10-05 12:34:17,177 - Dravia.bot - INFO - Database initialized
+2026-10-05 12:34:27,440 - Dravia.bot - INFO - Database initialized
+2026-10-05 12:34:37,586 - Dravia.bot - INFO - Database initialized
+2026-10-05 12:34:47,660 - Dravia.bot - INFO - Database initialized
+2026-10-05 12:34:58,915 - Dravia.bot - INFO - Database initialized
+2026-10-05 12:35:08,794 - Dravia.bot - INFO - Database initialized
+2026-10-05 12:35:18,272 - Dravia.bot - INFO - Database initialized
+2026-10-05 12:35:29,372 - Dravia.bot - INFO - Database initialized
+2026-10-05 12:35:39,828 - Dravia.bot - INFO - Database initialized
+2026-10-05 12:35:49,353 - Dravia.bot - INFO - Database initialized
+2026-10-05 13:29:02,436 - Dravia.bot - INFO - Database initialized
+2026-10-05 13:29:15,798 - Dravia.bot - INFO - Database initialized
+2026-10-05 13:29:29,906 - Dravia.bot - INFO - Database initialized
+2026-10-05 13:29:48,011 - Dravia.bot - INFO - Database initialized
+2026-10-05 13:30:04,277 - Dravia.bot - INFO - Database initialized
+2026-10-05 13:30:18,330 - Dravia.bot - INFO - Database initialized
+2026-10-05 13:30:34,234 - Dravia.bot - INFO - Database initialized
+2026-10-05 13:30:50,732 - Dravia.bot - INFO - Database initialized
+2026-10-05 13:31:07,684 - Dravia.bot - INFO - Database initialized
+2026-10-05 13:31:21,633 - Dravia.bot - INFO - Database initialized
+2026-10-05 13:31:36,600 - Dravia.bot - INFO - Database initialized
+2026-10-05 13:33:00,235 - Dravia.bot - INFO - Database initialized
+2026-10-05 13:33:00,242 - Dravia.bot - WARNING - cooldowns.expires_at is missing - run `python migrate.py`. Second-based cooldowns are disabled until then.
+2026-10-05 14:03:47,827 - Dravia.bot - INFO - Database initialized
+2026-10-05 14:03:57,966 - Dravia.bot - INFO - Database initialized
+2026-10-05 14:04:07,335 - Dravia.bot - INFO - Database initialized
+2026-10-05 14:04:17,049 - Dravia.bot - INFO - Database initialized
+2026-10-05 14:04:26,441 - Dravia.bot - INFO - Database initialized
+2026-10-05 14:04:36,904 - Dravia.bot - INFO - Database initialized
+2026-10-05 14:04:46,321 - Dravia.bot - INFO - Database initialized
+2026-10-05 14:04:56,274 - Dravia.bot - INFO - Database initialized
+2026-10-05 14:05:07,410 - Dravia.bot - INFO - Database initialized
+2026-10-05 14:05:18,009 - Dravia.bot - INFO - Database initialized
+2026-10-05 14:05:28,324 - Dravia.bot - INFO - Database initialized
+2026-10-05 14:06:41,781 - Dravia.bot - INFO - Database initialized
+2026-10-05 14:06:41,796 - Dravia.bot - WARNING - cooldowns.expires_at is missing - run `python migrate.py`. Second-based cooldowns are disabled until then.
+2026-10-05 14:09:43,274 - Dravia.bot - INFO - Database initialized
+2026-10-05 14:09:52,027 - Dravia.bot - INFO - Database initialized
+2026-10-05 14:10:01,374 - Dravia.bot - INFO - Database initialized
+2026-10-05 14:10:10,638 - Dravia.bot - INFO - Database initialized
+2026-10-05 14:10:20,267 - Dravia.bot - INFO - Database initialized
+2026-10-05 14:10:30,358 - Dravia.bot - INFO - Database initialized
+2026-10-05 14:10:39,648 - Dravia.bot - INFO - Database initialized
+2026-10-05 14:10:52,732 - Dravia.bot - INFO - Database initialized
+2026-10-05 14:11:05,539 - Dravia.bot - INFO - Database initialized
+2026-10-05 14:11:21,878 - Dravia.bot - INFO - Database initialized
+2026-10-05 14:11:36,343 - Dravia.bot - INFO - Database initialized
+2026-10-05 14:12:51,336 - Dravia.bot - INFO - Database initialized
+2026-10-05 14:12:51,418 - Dravia.bot - WARNING - cooldowns.expires_at is missing - run `python migrate.py`. Second-based cooldowns are disabled until then.
+2026-10-05 14:13:07,252 - Dravia.bot - INFO - Database initialized
