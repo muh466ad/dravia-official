@@ -32,6 +32,9 @@ bot = commands.Bot(command_prefix="!", intents=intents, help_command=None)
 bot.db = Database()
 bot.started_at = datetime.now(timezone.utc)
 
+# Guards against re-syncing slash commands on every reconnect.
+_commands_synced = False
+
 # Color scheme from Dravian flag
 COLORS = {
     "crimson": COLOR_CRIMSON,
@@ -116,6 +119,9 @@ async def on_ready():
     logger.info(f"📊 Bot ID: {bot.user.id}")
     bot_log.info("Bot ready as %s", bot.user)
     logger.info("✅ Bot fully initialized and ready!")
+    # Command syncing needs an application_id, which discord.py only resolves
+    # after the gateway handshake, so it cannot happen before bot.start().
+    await sync_commands()
 
 
 async def load_cogs():
@@ -130,15 +136,29 @@ async def load_cogs():
 
 
 async def sync_commands():
-    """Sync slash commands to Discord."""
-    if DEV_GUILD_ID:
-        guild = bot.get_guild(DEV_GUILD_ID)
-        if guild:
-            await bot.tree.sync(guild=guild)
-            logger.info(f"✅ Synced commands to dev guild: {guild.name}")
-            return
-    await bot.tree.sync()
-    logger.info("✅ Synced commands globally")
+    """Sync slash commands to Discord.
+
+    Runs from on_ready, where the client has an application_id. Guarded by a
+    flag so a reconnect does not re-register every command.
+    """
+    global _commands_synced
+    if _commands_synced:
+        return
+    try:
+        if DEV_GUILD_ID:
+            guild = bot.get_guild(DEV_GUILD_ID)
+            if guild:
+                await bot.tree.sync(guild=guild)
+                logger.info(f"✅ Synced commands to dev guild: {guild.name}")
+                _commands_synced = True
+                return
+        await bot.tree.sync()
+        logger.info("✅ Synced commands globally")
+        _commands_synced = True
+    except Exception as e:
+        # Never take the bot down over a sync failure — commands stay as-is.
+        log_error("Command sync failed", e)
+        logger.error(f"❌ Command sync failed: {e}")
 
 
 @bot.tree.command(name="help", description="Show help information by category")
@@ -250,7 +270,8 @@ async def main():
             logger.error(f"❌ Migration failed: {e}")
             raise
         await load_cogs()
-        await sync_commands()
+        # NB: slash commands are synced from on_ready, not here - bot.tree.sync()
+        # needs an application_id, which only exists once the gateway is up.
         bot.scheduler = DraviaScheduler(bot)
         bot.scheduler.start()
         try:
