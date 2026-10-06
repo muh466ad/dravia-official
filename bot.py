@@ -119,6 +119,12 @@ async def on_ready():
     logger.info(f"📊 Bot ID: {bot.user.id}")
     bot_log.info("Bot ready as %s", bot.user)
     logger.info("✅ Bot fully initialized and ready!")
+    # Announce an online presence so the member list shows the bot as online
+    # instead of offline (discord.py otherwise may not broadcast a presence).
+    await bot.change_presence(
+        status=discord.Status.online,
+        activity=discord.Game(name="Dravia — type /help"),
+    )
     # Command syncing needs an application_id, which discord.py only resolves
     # after the gateway handshake, so it cannot happen before bot.start().
     await sync_commands()
